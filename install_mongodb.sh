@@ -3,6 +3,7 @@ colour='\033[1;35m'
 NC='\033[0m' # No Color
 echo -e "${colour}*** Hi! This script will install MongoDB."
 echo -e "You could be asked for your admin password up to four times."
+brew update
 # use homebrew to install 
 echo -e "Installing MongoDB"
 sudo brew install mongodb -Y
