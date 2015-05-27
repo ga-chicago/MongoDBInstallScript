@@ -6,7 +6,7 @@ echo -e "You could be asked for your admin password up to four times."
 brew update
 # use homebrew to install 
 echo -e "Installing MongoDB"
-sudo brew install mongodb -y
+brew install mongodb -y
 # create the mongodb swap directory
 echo -e "Creating the MongoDB directory..."
 sudo mkdir -p /data/db
