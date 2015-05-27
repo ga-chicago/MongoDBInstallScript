@@ -20,3 +20,5 @@ This script:
 ##How to I keep running MongoDB after I run this?
 Next time you reboot your computer, open a new tab in terminal and run the `mongod` command.
 
+##Testing/Bug Reports
+This script has been tested on a fesh installation of Mac OS 10.10.3. If you run into any issues, please create an **issue** or fork this repository! Pull requests welcome. :)
