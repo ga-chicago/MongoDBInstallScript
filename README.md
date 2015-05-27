@@ -1,5 +1,5 @@
-# MongoDBInstallScript
-Bash script to setup and install MongoDB on Mac OS X.
+# MongoDB Install Script
+Bash script to setup and install MongoDB on Mac OS 10.9+ (Mavericks & Yosemite)
 
 Download the included bash file and run the following command:
 
