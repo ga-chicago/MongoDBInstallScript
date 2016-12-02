@@ -12,7 +12,7 @@ echo -e "Creating the MongoDB directory..."
 sudo mkdir -p /data/db
 # set read/write permissions for this directory to root
 echo -e "Setting Permissions to the /data/* directory for MongoDB"
-sudo chmod -777 /data/*
+sudo chmod 777 /data/*
 # start mongodb!
 echo -e "Starting Mongod..."
 sudo mongod
